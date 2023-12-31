@@ -3,10 +3,38 @@
   font-family: "Lato", sans-serif;
 }
 
+:root {
+  /* Spacings: */
+  --sp-1: 8px;
+  --sp-2: 24px;
+  --sp-3: 32px;
+  --sp-4: 48px;
+  --sp-5: 64px;
+  --sp-6: 96px;
+  --sp-7: 128px;
+
+  /* Font sizes: */
+  --fsize-1: 1rem;
+  --fsize-2: 1.25rem;
+  --fsize-3: 1.5rem;
+  --fsize-4: 2rem;
+
+  /* Colors: */
+  --primary-500: hsl(160deg, 100%, 30%);
+
+  --secondary-500: hsl(45deg, 100%, 50%);
+  --secondary-600: hsl(45deg, 100%, 40%);
+
+  --neutral-100: white;
+  --neutral-300: hsl(0deg, 0%, 60%);
+  --neutral-500: hsl(0deg, 0%, 40%);
+  --neutral-600: hsl(0deg, 0%, 30%);
+  --neutral-800: hsl(0deg, 0%, 10%);
+  --neutral-900: black;
+}
+
 html,
 body {
   margin: 0;
   padding: 0;
 }
-
-/* Add styles here! */
