@@ -1,6 +1,6 @@
-# CSS for JavaScript Developers Workshops - December 2023
+# CSS for JavaScript Developers Workshop 1: Agency Page - December 2023
 
-Workshops related to Josh Comeau's [CSS for JavaScript Developers](https://courses.joshwcomeau.com/css-for-js) course.
+Workshop related to Module 1: _Rendering Logic I_ of Josh Comeau's [CSS for JavaScript Developers](https://courses.joshwcomeau.com/css-for-js) course.
 
 ## Module 1 workshop: Agency page
 
